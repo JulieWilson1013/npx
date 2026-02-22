@@ -1,2 +1,2 @@
 # npx
-npx Example project
+Example project
